@@ -4,20 +4,29 @@
 
 <svelte:head>
   <title>Frontend Mentor | Stats preview card component</title>
-
 </svelte:head>
 
 <main>
   <section>
-    <h1>TODO: Add initial markup in src/routes/index.svelte</h1>
-  Get insights that help your business grow.
+    <h2>Get insights that help your business grow.</h2>
 
-  Discover the benefits of data analytics and make better decisions regarding revenue, customer 
-  experience, and overall efficiency.
+    <p>
+      Discover the benefits of data analytics and make better decisions
+      regarding revenue, customer experience, and overall efficiency.
+    </p>
 
-  10k+ companies
-  314 templates
-  12m+ queries
+    <div>
+      <h3>10k+</h3>
+      <p>companies</p>
+    </div>
+    <div>
+      <h3>314</h3>
+      <p>templates</p>
+    </div>
+    <div>
+      <h3>12m+</h3>
+      <p>queries</p>
+    </div>
   </section>
 </main>
 
@@ -25,13 +34,11 @@
 
 <style>
   main {
-    /* font-size: 14px; */
+    font-size: 15px;
     /* font-family: , system-ui */
     /* @apply bg-main-400 min-h-full; */
     /* @apply text-main-100; */
   }
 
-  /* TODO: Add your design breakpoints and additional details here, for reference while styling. */
+  /* Breakpoints: 375px & 1440px*/
 </style>
-
-

@@ -30,6 +30,9 @@
   </section>
 </main>
 
+<img src="/images/image-header-desktop.jpg" alt="header" />
+<img src="/images/image-header-mobile.jpg" alt="header" />
+
 <Attribution />
 
 <style>

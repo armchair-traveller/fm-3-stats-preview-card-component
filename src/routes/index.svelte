@@ -38,7 +38,6 @@
 <style>
   main {
     font-size: 15px;
-    /* font-family: , system-ui */
     /* @apply bg-main-400 min-h-full; */
     /* @apply text-main-100; */
   }

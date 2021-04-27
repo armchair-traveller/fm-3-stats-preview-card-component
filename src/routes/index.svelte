@@ -38,9 +38,16 @@
 <style>
   main {
     font-size: 15px;
+    font-family: "Inter", system-ui;
     /* @apply bg-main-400 min-h-full; */
     /* @apply text-main-100; */
   }
 
   /* Breakpoints: 375px & 1440px*/
+
+  /* Fonts: "Inter", "Lexend Deca" */
+
+  /* Neutral colors: Opacity
+  - main paragraph: 0.75
+  - stat headings: 0.6 */
 </style>

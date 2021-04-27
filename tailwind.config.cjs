@@ -4,12 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // TODO: Your colors here
         main: {
-          100: "#FFF",
-          200: "#FFF",
-          300: "#FFF",
-          400: "#FFF",
+          100: "hsl(277, 64%, 61%)",
+          200: "hsl(244, 38%, 16%)",
+          300: "hsl(233, 47%, 7%)",
         },
       },
     },

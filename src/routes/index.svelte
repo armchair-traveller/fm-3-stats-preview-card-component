@@ -16,16 +16,18 @@
     </p>
 
     <div>
-      <h3>10k+</h3>
-      <p>companies</p>
-    </div>
-    <div>
-      <h3>314</h3>
-      <p>templates</p>
-    </div>
-    <div>
-      <h3>12m+</h3>
-      <p>queries</p>
+      <div>
+        <h3>10k+</h3>
+        <p>companies</p>
+      </div>
+      <div>
+        <h3>314</h3>
+        <p>templates</p>
+      </div>
+      <div>
+        <h3>12m+</h3>
+        <p>queries</p>
+      </div>
     </div>
   </section>
 </main>

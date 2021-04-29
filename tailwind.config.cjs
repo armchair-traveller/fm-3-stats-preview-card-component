@@ -10,6 +10,9 @@ module.exports = {
           300: "hsl(233, 47%, 7%)",
         },
       },
+      fontFamily: {
+        deca: ["Lexend Deca", "system-ui"],
+      },
     },
   },
   plugins: [],

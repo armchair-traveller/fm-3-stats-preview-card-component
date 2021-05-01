@@ -45,11 +45,10 @@
     @apply text-white;
   }
 
-  /* Breakpoints: 375px & 1440px*/
-
-  /* Fonts: "Inter", "Lexend Deca" */
-
-  /* Neutral colors: Opacity
+  /* Style Guide
+  Breakpoints: 375px & 1440px
+  Fonts: "Inter", "Lexend Deca" 
+  Neutral colors: Opacity
   - main paragraph: 0.75
   - stat headings: 0.6 */
 </style>

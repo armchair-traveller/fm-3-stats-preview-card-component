@@ -8,6 +8,12 @@
 
 <main>
   <section>
+    <img
+      class="hidden lg:block"
+      src="/images/image-header-desktop.jpg"
+      alt="header"
+    />
+    <img class="lg:hidden" src="/images/image-header-mobile.jpg" alt="header" />
     <h2>Get insights that help your business grow.</h2>
 
     <p>
@@ -31,9 +37,6 @@
     </div>
   </section>
 </main>
-
-<img src="/images/image-header-desktop.jpg" alt="header" />
-<img src="/images/image-header-mobile.jpg" alt="header" />
 
 <Attribution />
 

@@ -8,26 +8,28 @@
 
 <main class="min-h-screen bg-main-300 text-white grid place-content-center">
   <section
-    class="bg-main-200 w-[330px] overflow-hidden rounded-lg text-center mb-2"
+    class="bg-main-200 w-[330px] overflow-hidden rounded-lg text-center mb-2 xl:w-[1110px] xl:flex xl:flex-row-reverse xl:text-left"
   >
     <img
-      class="hidden lg:block"
+      class="hidden xl:block"
       src="/images/image-header-desktop.jpg"
       alt="header"
     />
-    <img class="lg:hidden" src="/images/image-header-mobile.jpg" alt="header" />
+    <img class="xl:hidden" src="/images/image-header-mobile.jpg" alt="header" />
 
-    <div class="p-9">
-      <h2 class="font-bold text-[1.7rem] mb-4 leading-8">
+    <div class="p-9 xl:p-20 xl:pr-28">
+      <h2
+        class="font-bold text-[1.7rem] mb-4 leading-8 xl:text-[2.1rem] xl:mb-6 xl:leading-10 xl:tracking-wide"
+      >
         Get <span class="text-main-100">insights</span> that help your business grow.
       </h2>
 
-      <p class="opacity-75 leading-[25px] mb-10">
+      <p class="opacity-60 leading-[25px] mb-10 xl:mb-16">
         Discover the benefits of data analytics and make better decisions
         regarding revenue, customer experience, and overall efficiency.
       </p>
 
-      <div class="space-y-6">
+      <div class="space-y-6 xl:space-y-0 xl:flex xl:place-content-between">
         <div>
           <h3 class="font-bold text-2xl mb-1">10k+</h3>
           <p class="opacity-60 uppercase tracking-[1.5px] text-xs">companies</p>

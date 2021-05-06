@@ -56,6 +56,7 @@
 
   img {
     filter: sepia(100%) saturate(300%) brightness(60%) hue-rotate(235deg);
+    opacity: 0.6;
   }
 
   /* Style Guide

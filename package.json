@@ -1,5 +1,5 @@
 {
-  "name": "fm-template",
+  "name": "fm-3-stats-preview-card-component",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
